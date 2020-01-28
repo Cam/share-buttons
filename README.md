@@ -1,3 +1,9 @@
+## Rebuild notes
+
+* Integrate Web Share API https://developer.mozilla.org/en-US/docs/Web/API/Navigator/share. See https://websocialshare.com for example.
+
+-----
+
 # Share Buttons [![npm](https://img.shields.io/npm/v/share-buttons.svg)](https://www.npmjs.com/package/share-buttons) ![license](https://img.shields.io/github/license/wcoder/share-buttons.svg)
 
 Simple, powerful, customizable and super lightweight (1 Kb Gzip) social buttons for your site.
